@@ -1,1 +1,1 @@
-# TraverseMyONFT-master
+# React / Typescript / TailwindCSS / Zustand

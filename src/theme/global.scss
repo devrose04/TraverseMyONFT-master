@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "TT_Chocolates";
+    src: local("TT_Chocolates"),
+        url("../assets/fonts/tt_chocolates/TT Chocolates Trial Regular.otf")
+            format("truetype"); /* Super Modern Browsers */
+}
+
+@font-face {
+    font-family: "Futura-Bold";
+    src: local("Futura-Bold"),
+        url("../assets/fonts/Futura-Bold/Futura-Bold.ttf") format("truetype"); /* Super Modern Browsers */
+}
+
+@font-face {
+    font-family: "Futura";
+    src: local("Futura"),
+        url("../assets/fonts/futura/futura medium bt.ttf") format("truetype"); /* Super Modern Browsers */
+}
+
+body {
+    overflow-x: hidden;
+    font-family: "TT_Chocolates" !important;
+    background: #1e1e1e;
+    user-select: none;
+}
+
+.web3modal-modal-lightbox {
+    z-index: 99 !important;
+}
